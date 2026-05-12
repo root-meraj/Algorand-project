@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💸 Algorand Split Bill
 
 > A decentralized bill-splitting app powered by the **Algorand blockchain**. Create a bill, share a link or QR code, and let everyone pay their share directly on-chain — no middlemen, no trust issues.
@@ -155,3 +156,6 @@ ISC License — see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">Built with ❤️ on the Algorand blockchain</p>
+=======
+# Algorand-project
+>>>>>>> 11ca9ed566d269cec4484cdef891ae560624bc1f
